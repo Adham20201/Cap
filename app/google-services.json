@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "453019415678",
+    "project_id": "project-2080856967274304582",
+    "storage_bucket": "project-2080856967274304582.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453019415678:android:01cbf7558b6e120f51942f",
+        "android_client_info": {
+          "package_name": "com.leo.h19305"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeZUEB_rnPEZZ6vbkUzQj6hRJQLS1Q-yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
